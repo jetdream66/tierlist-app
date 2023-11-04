@@ -1,0 +1,7 @@
+{
+	"id": 2,
+	"name": "ItemName",
+	"category": "$category",
+	"description": "ItemDescription",
+	"imageUrl": "ItemImageURL"
+  }

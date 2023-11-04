@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230996027484",
+    "project_id": "teirlist-a48d4",
+    "storage_bucket": "teirlist-a48d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230996027484:android:5298a2f69d9327494e1e99",
+        "android_client_info": {
+          "package_name": "com.example.tierlistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmU3mZbAia1uCRnYbpghhbolT9FulB3GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

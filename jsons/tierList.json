@@ -1,0 +1,8 @@
+{
+	"id": 1,
+	"name": "TierListName",
+	"user": "$user",
+	"description": "TierListDescription",
+	"createdAt": "2023-10-28T10:00:00",
+	"category": "$category"
+  }

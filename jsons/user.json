@@ -1,0 +1,7 @@
+{
+	"id": 1,
+	"username": "Username",
+	"password": "Password",
+	"email": "user@example.com",
+	"imageUrl": "UserImageURL"
+  }
